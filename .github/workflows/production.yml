@@ -38,4 +38,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: your_dockerhub_username/devops-demo:latest
+          tags: jesusgaud/devops-demo:latest
